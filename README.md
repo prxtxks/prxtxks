@@ -18,8 +18,6 @@
 
 [![Skills](https://skillicons.dev/icons?i=python,js,java,cs,pytorch,tensorflow,mysql,postgres,mongodb,aws,azure,docker,linux,git,ci,tableau,powerbi,matplotlib,seaborn,jupyter)](https://skillicons.dev)
 
----
-
 ### 📚 Studying / Advancing
 [![Learning](https://skillicons.dev/icons?i=fastapi,nextjs,react,ai,mlops)](https://skillicons.dev)
 
@@ -28,12 +26,8 @@
 - Modern **Web & API integration**  
 - Cloud-native deployments (**AWS, Azure**)  
 
----
-
 ### 🚀 Projects & Work
 - [**CrediAI**](https://github.com/prxtxks/credi-ai): AI-powered credit scoring system for loan approvals  
-
----
 
 ### 🔗 Connect with Me
 <div>
@@ -45,10 +39,8 @@
     </a>
 </div>
 
----
-
 ### 📝 Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/YOUR-RESUME-LINK" download>Download my resume</a>
+> <a href="./cv.pdf" download>Download my resume</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8EC5FC&height=120&section=footer" alt="footer"/>
