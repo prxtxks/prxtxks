@@ -14,11 +14,11 @@
     <img src="./assets/about_pratik.gif" alt="About Me Terminal GIF"/>
 </div>
 
-### 🌟 Skills
+### Skills
 
 [![Skills](https://skillicons.dev/icons?i=python,js,java,cs,pytorch,tensorflow,mysql,postgres,mongodb,aws,azure,docker,linux,git)](https://skillicons.dev)
 
-### 📚 Studying / Advancing
+### Studying / Advancing
 [![Learning](https://skillicons.dev/icons?i=fastapi,nextjs,react,ai,mlops)](https://skillicons.dev)
 
 - Exploring **AI-driven FinTech applications**  
@@ -26,10 +26,10 @@
 - Modern **Web & API integration**  
 - Cloud-native deployments (**AWS, Azure**)  
 
-### 🚀 Projects & Work
+### Projects & Work
 - [**CrediAI**](https://github.com/prxtxks/credi-ai): AI-powered credit scoring system for loan approvals  
 
-### 🔗 Connect with Me
+### Connect with Me
 <div>
     <a href="https://www.linkedin.com/in/chaudharipratik/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -39,7 +39,7 @@
     </a>
 </div>
 
-### 📝 Employer?
+### Employer?
 > [!IMPORTANT]  
 > <a href="./cv.pdf" download>Download my resume</a>
 
