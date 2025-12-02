@@ -16,7 +16,7 @@
 
 ### 🌟 Skills
 
-[![Skills](https://skillicons.dev/icons?i=python,js,java,cs,pytorch,numpy,pandas,scikitlearn,tensorflow,mysql,mssql,postgres,mongodb,aws,azure,docker,linux,git,ci,tableau,powerbi,matplotlib,seaborn,jupyter)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,js,java,cs,pytorch,tensorflow,mysql,postgres,mongodb,aws,azure,docker,linux,git,ci,tableau,powerbi,matplotlib,seaborn,jupyter)](https://skillicons.dev)
 
 ---
 
