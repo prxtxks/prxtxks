@@ -16,12 +16,12 @@
 
 ### 🌟 Skills
 
-[![Skills](https://skillicons.dev/icons?i=python,js,java,csharp,pytorch,numpy,pandas,scikitlearn,tensorflow,mysql,mssql,postgres,mongodb,aws,azure,docker,linux,git,ci,api,tableau,powerbi,matplotlib,seaborn,jupyter)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,js,java,csharp,pytorch,numpy,pandas,scikitlearn,tensorflow,mysql,mssql,postgres,mongodb,aws,azure,docker,linux,git,ci,tableau,powerbi,matplotlib,seaborn,jupyter)](https://skillicons.dev)
 
 ---
 
 ### 📚 Studying / Advancing
-[![Learning](https://skillicons.dev/icons?i=fastapi,nextjs,react,ai,openai,mlops)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=fastapi,nextjs,react,ai,mlops)](https://skillicons.dev)
 
 - Exploring **AI-driven FinTech applications**  
 - Advanced **ML/Deep Learning pipelines**  
@@ -31,28 +31,23 @@
 ---
 
 ### 🚀 Projects & Work
-- **CrediAI:** AI-powered credit scoring system for loan approvals ([Repo](https://github.com/prxtxks/credi-ai))  
-- **UC Reviews:** Full-stack university review app  
-- Other AI/ML, Data Science, and Web Development projects
+- [**CrediAI**](https://github.com/prxtxks/credi-ai): AI-powered credit scoring system for loan approvals  
 
 ---
 
 ### 🔗 Connect with Me
 <div>
-    <a href="https://www.linkedin.com/in/prxtxks/">
+    <a href="https://www.linkedin.com/in/chaudharipratik/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/prxtxks">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://www.medium.com/@prxtxks">
-        <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-    </a>
 </div>
 
 ---
 
-### 📄 Resume
+### 📝 Employer?
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/folders/YOUR-RESUME-LINK" download>Download my resume</a>
 
