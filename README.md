@@ -41,6 +41,6 @@
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="./cv.pdf" download>Download my resume</a>
+> <a href="./CV.pdf" download>Download my resume</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8EC5FC&height=120&section=footer" alt="footer"/>
