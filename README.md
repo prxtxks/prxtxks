@@ -1,16 +1,59 @@
-## Hi there 👋
-
 <!--
-**prxtxks/prxtxks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    Hey there, I'm Pratik Chaudhari!
+    Welcome to my GitHub profile README.
+    Feel free to explore my projects and AI/FinTech work.
 -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8EC5FC&height=120&section=header" alt="header"/> 
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8EC5FC&width=500&lines=Hello%2C+I'm+Pratik+Chaudhari;AI+&+FinTech+Enthusiast" alt="Typing SVG"/>
+</a>
+
+<div>
+    <img src="./assets/about_pratik.gif" alt="About Me Terminal GIF"/>
+</div>
+
+### 🌟 Skills
+
+[![Skills](https://skillicons.dev/icons?i=python,js,java,csharp,pytorch,numpy,pandas,scikitlearn,tensorflow,mysql,mssql,postgres,mongodb,aws,azure,docker,linux,git,ci,api,tableau,powerbi,matplotlib,seaborn,jupyter)](https://skillicons.dev)
+
+---
+
+### 📚 Studying / Advancing
+[![Learning](https://skillicons.dev/icons?i=fastapi,nextjs,react,ai,openai,mlops)](https://skillicons.dev)
+
+- Exploring **AI-driven FinTech applications**  
+- Advanced **ML/Deep Learning pipelines**  
+- Modern **Web & API integration**  
+- Cloud-native deployments (**AWS, Azure**)  
+
+---
+
+### 🚀 Projects & Work
+- **CrediAI:** AI-powered credit scoring system for loan approvals ([Repo](https://github.com/prxtxks/credi-ai))  
+- **UC Reviews:** Full-stack university review app  
+- Other AI/ML, Data Science, and Web Development projects
+
+---
+
+### 🔗 Connect with Me
+<div>
+    <a href="https://www.linkedin.com/in/prxtxks/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/prxtxks">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.medium.com/@prxtxks">
+        <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    </a>
+</div>
+
+---
+
+### 📄 Resume
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/drive/folders/YOUR-RESUME-LINK" download>Download my resume</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8EC5FC&height=120&section=footer" alt="footer"/>
