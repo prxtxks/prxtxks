@@ -27,7 +27,14 @@
 - Cloud-native deployments (**AWS, Azure**)  
 
 ### Projects & Work
-- [**CrediAI**](https://github.com/prxtxks/credi-ai): AI-powered credit scoring system for loan approvals  
+- [**CrediAI**](https://github.com/prxtxks/CrediAI): AI-powered credit scoring system for loan approvals
+- [**UC Reviews**](https://github.com/prxtxks/UCReviews): Full-stack university of cincinnati review platform for students, faculty, and prospective students to review dorms, dining, parking, and professors.
+- [**TrendML**](https://github.com/prxtxks/TrendML): AI-powered product recommendation engine for e-commerce, integrating multiple stores and platforms
+- [**Stockify v2**](https://github.com/prxtxks/Stockify-v2): Enhanced version of Stockify-v1 (inventory management system) with AI-powered inventory optimization and predictive restocking
+- [**CatMap**](https://github.com/prxtxks/CatMap): Real-time parking availability and navigation application for University of Cincinnati campus
+- [**Social Workout**](https://github.com/chintavs/Workout-App): Android workout tracker app with prebuilt plans, buddy workout feature, and social connectivity
+- [**Financify**](https://github.com/prxtxks/Financify): Web application to help students track and manage college expenses efficiently
+- [**Stockify v1**](https://github.com/prxtxks/Stockify-v1): Inventory management software for businesses with basic CRUD operations and reporting features
 
 ### Connect with Me
 <div>
